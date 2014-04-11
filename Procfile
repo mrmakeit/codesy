@@ -1,1 +1,1 @@
-web: gunicorn codesy.wsgi
+web: node app.js

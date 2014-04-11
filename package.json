@@ -1,0 +1,21 @@
+{
+  "name": "codesy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codesy/codesy.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/codesy/codesy/issues"
+  },
+  "homepage": "https://github.com/codesy/codesy",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
